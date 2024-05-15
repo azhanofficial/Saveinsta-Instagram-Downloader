@@ -25,7 +25,7 @@
 ## 🔔 SaveInsta - Instagram Video Downloader
 
 
-<img src="https://i.imgur.com/n3xDUsD.png" align="left" alt="SaveInsta - Instagram Video Downloader" width="380" height="370">
+<img src="https://i.imgur.com/n3xDUsD.png" align="left" alt="SaveInsta - Instagram Video Downloader" width="380" height="250">
 
 Saveinsta is a free to download Instagram video online. SaveInsta is a Quick Instagram video downloader. Instagram video download helps you to download with just a few clicks.
 
@@ -40,7 +40,7 @@ This is a 100% free tool for downloading Instagram. SaveInsta is just best and a
 ## 🔔 SaveInsta - Instagram Photo Downloader
 
 
-<img src="https://i.imgur.com/CDC7y86.png" align="right" alt="SaveInsta - Instagram Photo Downloader" width="380" height="370">
+<img src="https://i.imgur.com/CDC7y86.png" align="right" alt="SaveInsta - Instagram Photo Downloader" width="380" height="250">
 
 **Saveinsta** is best to download instagram photos. This fast instagram photo downloader, ig photo downloader allows user to save instagram photos from Instagram without any difficulty. You can instagram photo download also single post image but also download multiple Instagram photos.
 
@@ -51,7 +51,7 @@ SaveInsta is Simple and user-friendly, helps to save Instagram photo. Instagram 
 
 ### 🔔 SaveInsta - Downloade Instagram Reels
 
-<img src="https://i.imgur.com/UErUCN9.png" align="left" alt="SaveInsta - Instagram Reels Downloader" width="380" height="370">
+<img src="https://i.imgur.com/UErUCN9.png" align="left" alt="SaveInsta - Instagram Reels Downloader" width="380" height="250">
 
 
 SaveInsta is free and quick tool for downloading HD Instagram reels. This **Instagram reels downloader** allows you to save reels videos in MP4 high quality to your device easliy. Instagram reels downloader works free for everyone and you may download as many reels videos as you like.
@@ -63,7 +63,7 @@ SaveInsta is free and quick tool for downloading HD Instagram reels. This **Inst
 
 ### 🔔 SaveInsta - Instagram Story Download
 
-<img src="https://i.imgur.com/zdMzFcR.png" align="right" alt="SaveInsta - Instagram Story Downloader" width="380" height="370">
+<img src="https://i.imgur.com/zdMzFcR.png" align="right" alt="SaveInsta - Instagram Story Downloader" width="380" height="250">
 
 
 SaveInsta is free and quick tool for downloading HD Instagram reels. This **Instagram reels downloader** allows you to save reels videos in MP4 high quality to your device easliy. Instagram reels downloader works free for everyone and you may download as many reels videos as you like.
@@ -74,7 +74,7 @@ SaveInsta is free and quick tool for downloading HD Instagram reels. This **Inst
 
 ### 🔔 SaveInsta - Instagram Profile Downloader
 
-<img src="https://i.imgur.com/zdMzFcR.png" align="left" alt="SaveInsta - Instagram Story Downloader" width="380" height="370">
+<img src="https://i.imgur.com/zdMzFcR.png" align="left" alt="SaveInsta - Instagram Story Downloader" width="380" height="250">
 
 
 **Download Instagram Profile** Picture with SaveInsra free & fast online tool. 100% free best Instagram Profile downloader. You can download any profile you want, private or public, by simply copying the URL or typing the user's name. Use this web tool to view and download Profile photos.
@@ -82,11 +82,15 @@ SaveInsta is free and quick tool for downloading HD Instagram reels. This **Inst
 
 <br>
 <br>
+<br>
+<br>
 
 
 
 > 🧑‍🚀 **Instagram Story Viewer** An anonymous Instagram viewer to view and download Instagram stories anonymously. Have fun!
 
+<br>
+<br>
 <br>
 
 ### Features
@@ -103,36 +107,10 @@ All features of SaveInsta - Instagram Downloader are run from the root of the pr
 | `anonymous viewer`    | download Instagram stories anonymously             |
 
 <br>
-
-
-
-### Deploy
-
-#### Deploy to production (manual)
-
-You can create an optimized production build with:
-
-```shell
-npm run build
-```
-
-Now, your website is ready to be deployed. All generated files are located at
-`dist` folder, which you can deploy the folder to any hosting service you
-prefer.
-
-#### Deploy to Netlify
-
-Clone this repository on own GitHub account and deploy to Netlify:
-
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/onwidget/astrowind)
-
-#### Deploy to Vercel
-
-Clone this repository on own GitHub account and deploy to Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonwidget%2Fastrowind)
-
 <br>
+<br>
+
+
 
 ##  How to save from IG with SaveInsta Instagram Downloader
 
