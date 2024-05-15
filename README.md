@@ -135,7 +135,7 @@ All features of SaveInsta - Instagram Downloader are run from the root of the pr
 
 ## Related projects
 
-- [InstagramStory Viewer](https://tailnext.vercel.app/) - Instagram Story Viewer, An anonymous Instagram viewer to view and download Instagram stories anonymously.
+- [InstagramStory Viewer](https://saveinsta.li/instagram-story-download) - Instagram Story Viewer, An anonymous Instagram viewer to view and download Instagram stories anonymously.
 - [TikTok Video Downloader](https://snaptik.cyou/) - Download TikTok Videos Easily with SnapTik.
 
 ## Contributing
@@ -145,7 +145,7 @@ That would be very useful for all of us and we would be happy to listen and take
 
 ## Acknowledgements
 
-Initially created by [SaveTube](https:savetube.cam) and maintained by  [PubArch](https://github.com/).
+Initially created by [SaveTube](https://savetube.cam) and maintained by  [PubArch](https://github.com/).
 
 ## License
 
