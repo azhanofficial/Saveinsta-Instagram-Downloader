@@ -109,7 +109,7 @@ All features of SaveInsta - Instagram Downloader are run from the root of the pr
 | `Video Download`      | Download Instagram video                           |
 | `download photos`     | Fast instagram photo downloader                    |
 | `Story Saver`         | Download Instagram Stories and Highlights          |
-| `Reels Downloader     | Download Instagram Reels videos quickly and easily!|
+| `Reels Downloader`    | Download Instagram Reels videos quickly and easily!|
 | `Profile downloader`  | Instagram Profile Picture Downloader               |
 | `anonymous viewer`    | download Instagram stories anonymously             |
 
