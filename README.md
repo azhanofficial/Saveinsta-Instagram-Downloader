@@ -1,7 +1,6 @@
 # 🚀 SaveInsta - Download Instagram Video, Photo, Story & Reels
 
-<img src="https://i.imgur.com/n3sMtoN.png" align="right"
-     alt="SaveInsta - Instagram Video Downloader" width="100" height="358">
+<img src="https://i.imgur.com/n3sMtoN.png" align="right"     alt="SaveInsta - Instagram Video Downloader" width="100" height="358">
 
 🌟 _Most *popular* & *fast* Instagram Video Downloader. 🌟
 
@@ -22,17 +21,17 @@
 
 <br>
 
-## Demo
 
-📌 [https://astrowind.vercel.app/](https://astrowind.vercel.app/)
+## 🔔 SaveInsta - Instagram Video Downloader
 
-<br>
 
-## 🔔 Upcoming: AstroWind 2.0 – We Need Your Vision!
+<img src="https://saveinsta.li/images/instagram-video.webp" align="left"     alt="SaveInsta - Instagram Video Downloader" width="560" height="370">
 
-We're embarking on an exciting journey with **AstroWind 2.0**, and we want you to be a part of it! We're currently taking the first steps in developing this new version and your insights are invaluable. Join the discussion and share your feedback, ideas, and suggestions to help shape the future of **AstroWind**. Let's make **AstroWind 2.0** even better, together!
+Saveinsta is a free to download Instagram video online. SaveInsta is a Quick Instagram video downloader. Instagram video download helps you to download with just a few clicks.
 
-[Share Your Feedback in Our Discussion!](https://github.com/onwidget/astrowind/discussions/392)
+This is a 100% free tool for downloading Instagram. SaveInsta is just best and an easy way to download videos from instagram. For downloading a video from Instagram you just have a link to that video you want to download and then paste that video link in the Instagram video downloader.
+
+[Instagram Video Downloader](https://saveinsta.li/)
 
 <br>
 
