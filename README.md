@@ -53,11 +53,8 @@ SaveInsta is Simple and user-friendly, helps to save Instagram photo. Instagram 
 ## 🔔 SaveInsta - Instagram Photo Downloader
 
 
-<img src="https://i.imgur.com/CDC7y86.png" align="right" alt="SaveInsta - Instagram Photo Downloader" width="300" height="250">
+SaveInsta is free and quick tool for downloading HD Instagram reels. This **Instagram reels downloader** allows you to save reels videos in MP4 high quality to your device easliy. Instagram reels downloader works free for everyone and you may download as many reels videos as you like.
 
-**Saveinsta** is best to download instagram photos. This fast instagram photo downloader, ig photo downloader allows user to save instagram photos from Instagram without any difficulty. You can instagram photo download also single post image but also download multiple Instagram photos.
-
-SaveInsta is Simple and user-friendly, helps to save Instagram photo. Instagram photo downloader allows you to download photos from Instagram  in high-quality resolution online and save them for offline use.
 
 <br>
 <br>
