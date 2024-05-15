@@ -46,6 +46,9 @@ This is a 100% free tool for downloading Instagram. SaveInsta is just best and a
 
 SaveInsta is Simple and user-friendly, helps to save Instagram photo. Instagram photo downloader allows you to download photos from Instagram  in high-quality resolution online and save them for offline use.
 
+[Instagram Photo Downloader](https://saveinsta.li/instagram-photo-download/)
+
+
 <br>
 <br>
 
@@ -55,6 +58,7 @@ SaveInsta is Simple and user-friendly, helps to save Instagram photo. Instagram 
 
 SaveInsta is free and quick tool for downloading HD Instagram reels. This **Instagram reels downloader** allows you to save reels videos in MP4 high quality to your device easliy. Instagram reels downloader works free for everyone and you may download as many reels videos as you like.
 
+[Instagram Reels Video Downloader](https://saveinsta.li/instagram-reels-video-download/)
 
 <br>
 <br>
@@ -66,6 +70,7 @@ SaveInsta is free and quick tool for downloading HD Instagram reels. This **Inst
 
 Saveinsta is the top **Instagram story downloader** as it is simple to use and allows you to download high-quality Instagram stories quickly. High-quality Instagram Story downloader for your phone, PC, or tablet. Use your browser to access our Instagram video downloader. No extra software has to be installed.
 
+[Instagram Story Saver](https://saveinsta.li/instagram-story-download)
 
 <br>
 <br>
@@ -79,7 +84,7 @@ Download Instagram Profile Picture with SaveInsra free & fast online tool. 100% 
 
 The purpose of SaveInsta Downloader is especially to download Instagram Profile Picute. SaveInsta is Simple and user-friendly, helps to save Instagram profile picture. Instagram profile downloader allows you to download Profile photos from Instagram in high-quality resolution online and save them for offline use.
 
-
+[Instagram Profile Picture Downloader](https://saveinsta.li/instagram-profile-downloader/)
 
 <br>
 <br>
@@ -87,7 +92,7 @@ The purpose of SaveInsta Downloader is especially to download Instagram Profile 
 ## 🔔 ANONY IG - InstagramStory Viewer
 
 
-**Anonymous Instagram Story Viewer** & Downloader allows users to watch and store Instagram Stories from public accounts. completely free Instagram Story Viewer & Downloader to watch instagram stories anonymously, photographs, videos, and other content from whomever you want. 
+**[Anonymous Instagram Story Viewer](https://saveinsta.li/instagram-story-download)** & Downloader allows users to watch and store Instagram Stories from public accounts. completely free Instagram Story Viewer & Downloader to watch instagram stories anonymously, photographs, videos, and other content from whomever you want. 
 
 <br>
 <br>
