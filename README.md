@@ -1,7 +1,7 @@
-# <i class="gsicon-instagram"></i> 🚀 AstroWind
+# 🚀 SaveInsta - Download Instagram Video, Photo, Story & Reels
 
-<img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/lighthouse-score.png" align="right"
-     alt="AstroWind Lighthouse Score" width="100" height="358">
+<img src="https://i.imgur.com/n3sMtoN.png" align="right"
+     alt="SaveInsta - Instagram Video Downloader" width="100" height="358">
 
 🌟 _Most *starred* & *forked* Astro theme in 2022 & 2023_. 🌟
 
