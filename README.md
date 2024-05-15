@@ -149,4 +149,4 @@ Initially created by [SaveTube](https://savetube.cam) and maintained by  [PubArc
 
 ## License
 
-**SaveInsta** is licensed under the MIT license — see the [LICENSE](./LICENSE.md) file for details.
+**SaveInsta** is licensed under the MIT license — see the [LICENSE](./LICENSE.txt) file for details.
