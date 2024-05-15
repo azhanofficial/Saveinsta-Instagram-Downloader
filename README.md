@@ -25,7 +25,7 @@
 ## 🔔 SaveInsta - Instagram Video Downloader
 
 
-<img src="https://saveinsta.li/images/instagram-video.webp" align="left"     alt="SaveInsta - Instagram Video Downloader" width="560" height="370">
+<img src="https://i.imgur.com/n3xDUsD.png" align="left" alt="SaveInsta - Instagram Video Downloader" width="380" height="370">
 
 Saveinsta is a free to download Instagram video online. SaveInsta is a Quick Instagram video downloader. Instagram video download helps you to download with just a few clicks.
 
