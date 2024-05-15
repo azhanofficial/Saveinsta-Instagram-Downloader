@@ -145,7 +145,7 @@ That would be very useful for all of us and we would be happy to listen and take
 
 ## Acknowledgements
 
-Initially created by [SaveTube](https:savetube.cam) and maintained by  [CodingArch](https://github.com/).
+Initially created by [SaveTube](https:savetube.cam) and maintained by  [PubArch](https://github.com/).
 
 ## License
 
